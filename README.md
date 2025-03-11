@@ -72,6 +72,7 @@ This repository contains awesome LeetCode resources to learn Data Structures and
 
 ## ✅ Curated Problems
 - [LeetCode Company Frequency](https://github.com/xizhang20181005/Leetcode_company_frequency)
+- [LeetCode CompanyWise](https://github.com/krishnadey30/LeetCode-Questions-CompanyWise/tree/master)
 - [AlgoMaster 300](https://algomaster.io/practice/dsa-patterns)
 - [Blind 75](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
 - [Leetcode Top 100 Liked](https://leetcode.com/studyplan/top-100-liked/)
