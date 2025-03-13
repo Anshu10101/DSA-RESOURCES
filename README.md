@@ -7,6 +7,7 @@ This repository contains awesome LeetCode resources to learn Data Structures and
 - [How I Mastered DSA](https://blog.algomaster.io/p/how-i-mastered-data-structures-and-algorithms)
 - [Handy resources to lookup while coding](https://leetcode.com/discuss/post/5942295/handy-resources-to-lookup-while-coding-b-8ipt/)
 - [Comprehensive DSA GUide](https://leetcode.com/discuss/general-discussion/494279/comprehensive-data-structure-and-algorithm-study-guide)
+- [How to create test cases on LeetCode](https://support.leetcode.com/hc/en-us/articles/32442719377939-How-to-create-test-cases-on-LeetCode#h_01J5EGREAW3NAEJ14XC07GRW1A)
 - [Java Time Complexities of All Built-in Methods (String, StringBuilder, List, Set, Map, Queue, Stack)](https://leetcode.com/discuss/interview-question/5498326/Java-Time-Complexities-of-All-Built-in-Methods-(String-StringBuilder-List-Set-Map-Queue-Stack)/)
 
 ## 📌 Fundamental Concepts
